@@ -9,7 +9,7 @@ This repository includes:
 - Blockchain integration code to connect the platform to a blockchain network.
 - A user-friendly API that allows developers to easily integrate the blockchain capabilities into their applications.
 
-Getting started
+### Getting started
 To get started with the TrueLink AI Blockchain repository, you will need to:
 
 - Clone the repository to your local machine.
